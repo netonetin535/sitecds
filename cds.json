@@ -1,0 +1,12 @@
+[
+  {
+    "titulo": "CD Sertanejo 2025",
+    "capa": "capas/sertanejo.jpg",
+    "arquivo": "cds/sertanejo2025.zip"
+  },
+  {
+    "titulo": "CD Funk Ostentação",
+    "capa": "capas/funk.jpg",
+    "arquivo": "cds/funk2025.zip"
+  }
+]
